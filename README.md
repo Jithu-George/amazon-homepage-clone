@@ -1,3 +1,4 @@
 # amazon-homepage-clone
-just using css and html, building a homepage clone of amazon 
+Building a clone of the homepage of amazon using just html and css
+<br> 
 this is my trial first git repository
