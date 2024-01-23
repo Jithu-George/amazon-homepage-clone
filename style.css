@@ -121,7 +121,7 @@
 }
 
 .con-logo{
- background-image: url(/images/flag.svg);
+ background-image: url(images/flag.svg);
  background-size: cover;
  width:50px;
  height: 20px;
@@ -214,7 +214,7 @@ span{
 /* hero section */
 
 .hero-section{
-    background-image: url(/images/hero_image.jpg);
+    background-image: url(images/hero_image.jpg);
     height: 380px;
     background-size: cover;
     display: flex;
@@ -320,7 +320,7 @@ ul p{
 }
 
 .logo{
-    background-image: url(/images/amazon_logo.png);
+    background-image: url(images/amazon_logo.png);
     background-size: cover;
     height: 50px;
     width: 100px;
